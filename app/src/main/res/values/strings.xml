@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="String">Enter Name</string>
+    <string name="Title">Input Data to Secure</string>
+    <string name="Married">Do you Married ?</string>
+    <string name="Yes">Yes</string>
+    <string name="hint_name_input">Name</string>
+    <string name="See_data">Show</string>
+    <string name="Save_data">Save</string>
+
 </resources>
